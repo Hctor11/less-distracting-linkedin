@@ -1,0 +1,22 @@
+main 
+.scaffold-finite-scroll--infinite
+.scaffold-finite-scroll__content
+.feed-shared-update-v2 .artdeco-dropdown ::after ::before{
+    visibility: hidden;
+}
+
+.scaffold-finite-scroll__content{
+    visibility: hidden;
+}
+
+.feed-shared-update-v2{
+    visibility: hidden;
+}
+
+.scaffold-finite-scroll--infinite{
+    visibility: hidden;
+}
+
+main{
+    visibility: hidden;
+}
